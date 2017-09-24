@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteCatalogPackageTask", "ExecuteCatalogPackageTask\ExecuteCatalogPackageTask.csproj", "{EB18EBEA-9EB2-4CD7-8E16-9C502E2B85BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteCatalogPackageTaskUI", "ExecuteCatalogPackageTaskUI\ExecuteCatalogPackageTaskUI.csproj", "{D349662C-09CC-4175-A83E-2A6EA8CE110F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB18EBEA-9EB2-4CD7-8E16-9C502E2B85BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB18EBEA-9EB2-4CD7-8E16-9C502E2B85BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB18EBEA-9EB2-4CD7-8E16-9C502E2B85BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB18EBEA-9EB2-4CD7-8E16-9C502E2B85BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D349662C-09CC-4175-A83E-2A6EA8CE110F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D349662C-09CC-4175-A83E-2A6EA8CE110F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D349662C-09CC-4175-A83E-2A6EA8CE110F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D349662C-09CC-4175-A83E-2A6EA8CE110F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
